@@ -1,16 +1,17 @@
 # 👋 Hi there, I’m Le Van Chung!
 
 🎯 **About Me:**  
-- 🐍 Currently a **Python developer** in the **AI field**  
-- 🎓 Studying at **East Asia University of Technology**  
-- 🔬 Interning at the **International Advanced Research Center for Applied Artificial Intelligence**  
-- 🎵 Love listening to music and reading technical documents
+- 🤖 I’m currently a **developer** in the **AI/ML/DL field**  
+- 🔬 I'm interning at the **Artificial Intelligence Research Center**  
+- 🎓 I'm studying at **East Asia University of Technology**  
+- ♏ I love listening to music 🎵 and reading technical documents 📚
 
 ---
 
 ## 🚀 Skills & Tools  
-- **Languages:** ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) ![SQL](https://img.shields.io/badge/-SQL-CC2927?logo=databricks&logoColor=white&style=flat)  
+- **Languages:** ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white&style=flat) ![SQL](https://img.shields.io/badge/-SQL-CC2927?style=for-the-badge&logo=SQL&logoColor=white&style=flat)  
 - **Databases:** ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat) ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=flat)
+- **IDEs/Editors:** ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white&style=flat)
 
 ---
 
