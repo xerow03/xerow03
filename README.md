@@ -2,7 +2,6 @@
 
 🎯 **About Me:**  
 - 🤖 I’m currently a **intern developer** in the **AI/ML/DL field**  
-- 🔬 I'm interning at the **Artificial Intelligence Research Center**  
 - 🎓 I'm studying at **East Asia University of Technology**  
 - ♏ I love listening to music 🎵 and reading technical documents 📚
 
