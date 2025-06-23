@@ -8,6 +8,6 @@
 ---
 
 ## 📫 Connect with Me  
-- ✉️ Email: **chungle0213@gmail.com**
+- ✉️ Email: **lechung0213@gmail.com**
 
 ---
